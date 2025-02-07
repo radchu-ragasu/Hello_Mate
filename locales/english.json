@@ -1,0 +1,31 @@
+{
+    "labels": {
+      "email": "Email",
+      "password": "Password"
+    },
+    "placeholders": {
+      "email": "Enter your email",
+      "password": "Enter your password"
+    },
+    "buttons": {
+      "login": "Log In",
+      "forgotPassword": "Forgot Password?"
+    },
+    "validation": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "passwordRequired": "Password is required",
+      "passwordLength": "Password must be at least 8 characters"
+    },
+    "errors": {
+      "loginFailed": "Login failed. Please try again."
+    },
+    "accessibility": {
+      "emailInput": "Email input field",
+      "emailHint": "Enter your email address",
+      "passwordInput": "Password input field",
+      "passwordHint": "Enter your password",
+      "loginButton": "Log in button",
+      "forgotPassword": "Forgot password link"
+    }
+  }
