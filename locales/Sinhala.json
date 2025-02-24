@@ -1,0 +1,32 @@
+{
+    "labels": {
+      "email": "ඊමේල්",
+      "password": "මුරපදය"
+    },
+    "placeholders": {
+      "email": "ඔබගේ ඊමේල් ඇතුළත් කරන්න",
+      "password": "ඔබගේ මුරපදය ඇතුළත් කරන්න"
+    },
+    "buttons": {
+      "login": "පිවිසෙන්න",
+      "forgotPassword": "මුරපදය අමතකද?"
+    },
+    "validation": {
+      "emailRequired": "ඊමේල් ඇතුළත් කළ යුතුය",
+      "emailInvalid": "කරුණාකර වලංගු ඊමේල් ලිපිනයක් ඇතුළත් කරන්න",
+      "passwordRequired": "මුරපදය ඇතුළත් කළ යුතුය",
+      "passwordLength": "මුරපදය අක්ෂර 8ක් වත් තිබිය යුතුය"
+    },
+    "errors": {
+      "loginFailed": "පිවිසීම අසාර්ථකයි. නැවත උත්සාහ කරන්න."
+    },
+    "accessibility": {
+      "emailInput": "ඊමේල් ඇතුළත් කිරීමේ ක්ෂේත්‍රය",
+      "emailHint": "ඔබගේ ඊමේල් ලිපිනය ඇතුළත් කරන්න",
+      "passwordInput": "මුරපද ඇතුළත් කිරීමේ ක්ෂේත්‍රය",
+      "passwordHint": "ඔබගේ මුරපදය ඇතුළත් කරන්න",
+      "loginButton": "පිවිසීමේ බොත්තම",
+      "forgotPassword": "මුරපදය අමතකද? සබැඳිය"
+    }
+  }
+  
